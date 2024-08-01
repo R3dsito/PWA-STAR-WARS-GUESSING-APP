@@ -4,8 +4,8 @@
     "theme_color": "#fff700",
     "background_color": "#000000",
     "display": "fullscreen",
-    "scope": "/clase/",
-    "start_url": "/clase/index.html",
+    "scope": "/PWA-STAR-WARS-GUESSING-APP/",
+    "start_url": "/PWA-STAR-WARS-GUESSING-APP/index.html",
     "description": "Adivina los personajes de Star Wars",
     "icons":[
         {
