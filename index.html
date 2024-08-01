@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Wars App</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="manifest" href="manifest.json">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+    <script src="js/index.js"></script>
+</head>
+<body>
+    <button class="btn" id="show-intro-button">X</button>
+
+    <div id="sw" style="display: none;">
+        <div id="sw-intro">
+            Hace mucho tiempo, en una comisión muy, muy lejana...
+        </div>
+
+        <div>
+            <img id="sw-logo" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Star_Wars_Yellow_Logo.svg" alt="Star Wars">
+        </div>
+
+        <div id="sw-crawl">
+            <div id="sw-crawl-episode-number">Episode III</div>
+            <div id="sw-crawl-episode-title">ADIVINA EL BANDO</div>
+            <div id="sw-crawl-episode-text">
+                <p>
+                    Poné a prueba tus conocimientos sobre el universo de Star Wars a través de un divertido juego en el que tendrás que adivinar a que bando pertenece cada personaje.
+                </p>
+                <p>
+                    Compite contra otros jugadores y sube tu nombre al tablero de líderes al responder correctamente a tantas preguntas consecutivas como puedas.
+                </p>       
+            </div>
+        </div>
+        <button class="btn" id="close-button">X</button>
+    </div>
+    <div class="center-buttons">
+        <img class="pb-4" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Star_Wars_Yellow_Logo.svg" alt="logo">
+        <button class="btn" onclick="location.href='juego.html';">Iniciar Juego</button>
+        <button class="btn" onclick="location.href='scoreboard.html';">Leaderboard</button>
+    </div>
+    <div class="share">
+        <button class="btn" onclick="solicitarPermisoNotificaciones()">Activar Notificaciones</button>
+        <button class="btn" id="compartir-contenido" onclick="compartir()">Compartir</button>
+    </div>
+    <audio src="./saberon.mp3" id="saberon"></audio>
+    <div id="estado-conexion">
+        <p>Estado de la conexión: <span id="estado">Online</span></p>
+    </div>
+</body>
+</html>

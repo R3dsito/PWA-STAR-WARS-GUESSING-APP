@@ -1,0 +1,212 @@
+[
+    {
+        "nombre": "Luke Skywalker",
+        "id": 1,
+        "bando": "Rebel Alliance",
+        "color de sable": "Verde",
+        "imgs": "imgs/id-1.jpg"
+    },
+    {
+        "nombre": "Darth Vader",
+        "id": 2,
+        "bando": "Imperio",
+        "color de sable": "Rojo",
+        "imgs": "imgs/id-2.jpg"
+    },
+    {
+        "nombre": "Han Solo",
+        "id": 3,
+        "bando": "Rebel Alliance",
+        "color de sable": "N/A",
+        "imgs": "imgs/id-3.jpg"
+    },
+    {
+        "nombre": "Leia Organa",
+        "id": 4,
+        "bando": "Rebel Alliance",
+        "color de sable": "N/A",
+        "imgs": "imgs/id-4.jpg"
+    },
+    {
+        "nombre": "Obi-Wan Kenobi",
+        "id": 5,
+        "bando": "Jedi Order",
+        "color de sable": "Azul",
+        "imgs": "imgs/id-5.jpg"
+    },
+    {
+        "nombre": "Yoda",
+        "id": 6,
+        "bando": "Jedi Order",
+        "color de sable": "Verde",
+        "imgs": "imgs/id-6.jpg"
+    },
+    {
+        "nombre": "Anakin Skywalker",
+        "id": 7,
+        "bando": "Jedi Order",
+        "color de sable": "Azul",
+        "imgs": "imgs/id-7.jpg"
+    },
+    {
+        "nombre": "Padmé Amidala",
+        "id": 8,
+        "bando": "República",
+        "color de sable": "N/A",
+        "imgs": "imgs/id-8.jpg"
+    },
+    {
+        "nombre": "Rey",
+        "id": 9,
+        "bando": "Resistance",
+        "color de sable": "Azul",
+        "imgs": "imgs/id-9.jpg"
+    },
+    {
+        "nombre": "Kylo Ren",
+        "id": 10,
+        "bando": "First Order",
+        "color de sable": "Rojo",
+        "imgs": "imgs/id-10.jpg"
+    },
+    {
+        "nombre": "Chewbacca",
+        "id": 11,
+        "bando": "Rebel Alliance",
+        "color de sable": "N/A",
+        "imgs": "imgs/id-11.jpg"
+    },
+    {
+        "nombre": "R2-D2",
+        "id": 12,
+        "bando": "Rebel Alliance",
+        "color de sable": "N/A",
+        "imgs": "imgs/id-12.jpg"
+    },
+    {
+        "nombre": "C-3PO",
+        "id": 13,
+        "bando": "Rebel Alliance",
+        "color de sable": "N/A",
+        "imgs": "imgs/id-13.jpg"
+    },
+    {
+        "nombre": "Lando Calrissian",
+        "id": 14,
+        "bando": "Rebel Alliance",
+        "color de sable": "N/A",
+        "imgs": "imgs/id-14.jpg"
+    },
+    {
+        "nombre": "Emperor Palpatine",
+        "id": 15,
+        "bando": "Imperio",
+        "color de sable": "Rojo",
+        "imgs": "imgs/id-15.jpg"
+    },
+    {
+        "nombre": "Boba Fett",
+        "id": 16,
+        "bando": "Independiente",
+        "color de sable": "N/A",
+        "imgs": "imgs/id-16.jpg"
+    },
+    {
+        "nombre": "Mace Windu",
+        "id": 17,
+        "bando": "Jedi Order",
+        "color de sable": "Púrpura",
+        "imgs": "imgs/id-17.jpg"
+    },
+    {
+        "nombre": "Qui-Gon Jinn",
+        "id": 18,
+        "bando": "Jedi Order",
+        "color de sable": "Verde",
+        "imgs": "imgs/id-18.jpg"
+    },
+    {
+        "nombre": "Jango Fett",
+        "id": 19,
+        "bando": "Independiente",
+        "color de sable": "N/A",
+        "imgs": "imgs/id-19.jpg"
+    },
+    {
+        "nombre": "Darth Maul",
+        "id": 20,
+        "bando": "Sith",
+        "color de sable": "Rojo",
+        "imgs": "imgs/id-20.jpg"
+    },
+    {
+        "nombre": "Ahsoka Tano",
+        "id": 21,
+        "bando": "Jedi Order",
+        "color de sable": "Blanco",
+        "imgs": "imgs/id-21.jpg"
+    },
+    {
+        "nombre": "Poe Dameron",
+        "id": 22,
+        "bando": "Resistance",
+        "color de sable": "N/A",
+        "imgs": "imgs/id-22.jpg"
+    },
+    {
+        "nombre": "Finn",
+        "id": 23,
+        "bando": "Resistance",
+        "color de sable": "N/A",
+        "imgs": "imgs/id-23.jpg"
+    },
+    {
+        "nombre": "BB-8",
+        "id": 24,
+        "bando": "Resistance",
+        "color de sable": "N/A",
+        "imgs": "imgs/id-24.jpg"
+    },
+    {
+        "nombre": "General Hux",
+        "id": 25,
+        "bando": "First Order",
+        "color de sable": "N/A",
+        "imgs": "imgs/id-25.jpg"
+    },
+    {
+        "nombre": "Supreme Leader Snoke",
+        "id": 26,
+        "bando": "First Order",
+        "color de sable": "N/A",
+        "imgs": "imgs/id-26.jpg"
+    },
+    {
+        "nombre": "Count Dooku",
+        "id": 27,
+        "bando": "Sith",
+        "color de sable": "Rojo",
+        "imgs": "imgs/id-27.jpg"
+    },
+    {
+        "nombre": "Jar Jar Binks",
+        "id": 28,
+        "bando": "República",
+        "color de sable": "N/A",
+        "imgs": "imgs/id-28.jpg"
+    },
+    {
+        "nombre": "Rose Tico",
+        "id": 29,
+        "bando": "Resistance",
+        "color de sable": "N/A",
+        "imgs": "imgs/id-29.jpg"
+    },
+    {
+        "nombre": "Admiral Ackbar",
+        "id": 30,
+        "bando": "Rebel Alliance",
+        "color de sable": "N/A",
+        "imgs": "imgs/id-30.jpg"
+    }
+]
